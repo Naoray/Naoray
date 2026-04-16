@@ -6,7 +6,7 @@ PHP/Laravel developer, open source maintainer, and builder of agentic dev toolin
 
 - [scribe](https://github.com/Naoray/scribe) — team skill sync for AI coding agents
 - [anvil](https://github.com/Naoray/anvil) — git worktree manager for agentic development
-- [laravel-cashier-mollie](https://github.com/Naoray/laravel-cashier-mollie) — official Mollie integration for Laravel Cashier
+- [mollie-api-php](https://github.com/mollie/mollie-api-php) — official Mollie API client for PHP
 - [laravel-github-monolog](https://github.com/Naoray/laravel-github-monolog) — Laravel log channel for GitHub issues
 
 **Find me**
