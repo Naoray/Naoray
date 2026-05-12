@@ -1,6 +1,6 @@
 ## Hi, I'm Krishan
 
-Building language-agnostic developer tooling for agentic AI — accelerating adoption.
+Open source tools for teams shipping with AI agents — keeping your data safe, your worktrees isolated, and your skills in sync.
 
 **Active projects**
 
