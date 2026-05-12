@@ -1,6 +1,6 @@
 ## Hi, I'm Krishan
 
-Open source maintainer. Currently building agentic developer tooling in Go.
+Building language-agnostic developer tooling for agentic AI — accelerating adoption.
 
 **Active projects**
 
